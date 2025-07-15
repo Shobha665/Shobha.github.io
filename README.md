@@ -1,6 +1,6 @@
 ## 🚀 Next Steps
 
-1. ❌ **Update repository name to `Shobha665.github.io`** (Current: `Shobha.github.io`)
+1. ❌ **Update repository name to `Shobha665.github.io`** (Current: `Shobha665.github.io`)
 2. **Update [`config.json`](https://github.com/Shobha665/Shobha.github.io/blob/main/config.json)** with your personal information, experience, and projects and then run [this workflow](https://github.com/Shobha665/Shobha.github.io/actions/workflows/update-readme.yml) to update the README
 3. **Replace assets** in the [`assets/`](https://github.com/Shobha665/Shobha.github.io/tree/main/assets/) folder with your own logos and project images
 4. **Add "featured" topic** to [GitHub repositories](https://github.com/Shobha665?tab=repositories) you want to showcase
